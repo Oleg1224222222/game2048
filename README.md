@@ -13,9 +13,9 @@ This project is an implementation of the classic game "2048" in the C++ programm
 ![Снимок6](https://github.com/Oleg1224222222/game2048/assets/170743123/48254e2a-3eac-4705-89d3-deee5587300f)
 ![Снимок7](https://github.com/Oleg1224222222/game2048/assets/170743123/6032653c-3269-42f2-99ef-0084db9bdf28)
 
-
-
-
 ## How to play 
 Use commands (up, down, left, right) to make moves. The goal of the game is to get a tile with the number 2048. After each turn, new tiles with the numbers 2 or 4 will appear on the playing field. If you can connect two tiles with the same number, they will merge into one tile with the number that is the sum of their numbers. The game ends when you reach the number 2048 or when there are no more moves left on the board.
 Have a nice game!
+
+## Game result
+To see the saved results of your game, you need to download the game_stats.txt file.  Game results will be saved there.
