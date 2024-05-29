@@ -18,4 +18,4 @@ Use commands (up, down, left, right) to make moves. The goal of the game is to g
 Have a nice game!
 
 ## Game result
-To see the saved results of your game, you need to download the game_stats.txt file.  Game results will be saved there.
+The results of your games will be saved in the game_stats.txt folder.  It will be created automatically after finishing your game.
